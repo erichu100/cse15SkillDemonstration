@@ -6,6 +6,6 @@ public class TestTester {
     
     @Test
     public void testTest(){
-        assertEquals("Mew", Cat.funniCat());
+        assertEquals("Meow", Cat.funniCat());
     }
 }
